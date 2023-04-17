@@ -14,3 +14,5 @@ SELECT product_name, manufacturer, price FROM mobile_phones WHERE product_count 
 
 SELECT * FROM mobile_phones WHERE manufacturer = 'Samsung';
 
+CREATE DATABASE lesson2;
+show databases;
